@@ -1,0 +1,8 @@
+echo "# Java_Work_Cs702" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ahmedbilal7891/Java_Work_Cs702.git
+git push -u origin main
+                
